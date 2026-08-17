@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+downloads_dass/
+debug_dump/
+ultimo_count.json
+log_robodass.txt
